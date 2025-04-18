@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Audio/AudioLoFiExample.unity
-    guid: 55d611c1e8a4195458154cbf73dde755
+    path: Assets/Scenes/BoundsControlExamples 1.unity
+    guid: 888847954adf2434da437b08484be67f
   - enabled: 1
     path: Assets/Scenes/Audio/AudioOcclusionExample.unity
     guid: 02279def028403945bcd5eeaa3944ed4
@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CanvasExample.unity
     guid: 24da6686da5c91c40add71f019626f80
+  - enabled: 1
+    path: Assets/Scenes/Audio/AudioLoFiExample.unity
+    guid: 55d611c1e8a4195458154cbf73dde755
   - enabled: 1
     path: Assets/Scenes/Experimental/CanvasExampleSimpleActionButton.unity
     guid: a99fa153bbaaf01439c1d1d688fa086b
